@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSU_support_bot", "PSU_support_bot\PSU_support_bot.csproj", "{522A0D80-B80D-4A98-84CD-8A8B2389308E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522A0D80-B80D-4A98-84CD-8A8B2389308E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522A0D80-B80D-4A98-84CD-8A8B2389308E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522A0D80-B80D-4A98-84CD-8A8B2389308E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522A0D80-B80D-4A98-84CD-8A8B2389308E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E57363-5140-4BB9-8E21-D8670C3B1DCE}
+	EndGlobalSection
+EndGlobal
